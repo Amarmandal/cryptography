@@ -1,0 +1,17 @@
+# Set the maximum line length to 120 characters
+max_width = 100
+
+# Optional: Other common rustfmt configurations
+# Uncomment and customize as needed
+
+# Use spaces for indentation (default: true)
+# hard_tabs = false
+
+# Number of spaces per tab (default: 4)
+# tab_spaces = 4
+
+# Control where braces are placed (default: "SameLineWhere")
+# brace_style = "SameLineWhere"
+
+# Format code in a way that is compatible with edition 2021 (default: 2018)
+# edition = "2021"

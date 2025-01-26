@@ -1,0 +1,10 @@
+[package]
+name = "crypto_practice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8.4"
+base64 = "0.22.1"
+crypto = "0.5.1"
+ring = "0.17.8"
